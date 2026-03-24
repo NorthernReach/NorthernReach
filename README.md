@@ -16,16 +16,6 @@ Offensive security practitioner with a background in infrastructure and network 
 
 ---
 
-## Certifications
-
-| | |
-|---|---|
-| CompTIA Security+ | Active |
-| ISC² SSCP | Active |
-| HTB CPTS | In Progress |
-
----
-
 ## Active Practice
 
 HackTheBox: [profile.hackthebox.com/profile/019d20f8-6186-7244-9499-1d9355adcd59](https://profile.hackthebox.com/profile/019d20f8-6186-7244-9499-1d9355adcd59)
