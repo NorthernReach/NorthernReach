@@ -1,4 +1,4 @@
-# NorthernReach
+# Tyler P. @ NorthernReach
 
 Offensive security practitioner with a background in infrastructure and network engineering. Focus areas: network penetration testing, Active Directory attack paths, cloud security posture assessment, and DevSecOps.
 
