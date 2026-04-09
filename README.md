@@ -1,23 +1,58 @@
-# Tyler P. @ NorthernReach
+```
+╔══════════════════════════════════════════════════════════════╗ 
+║                                                              ║ 
+║                        NORTHERN REACH                        ║ 
+║                                                              ║ 
+╚══════════════════════════════════════════════════════════════╝
 
-Offensive security practitioner with a background in infrastructure and network engineering. Focus areas: network penetration testing, Active Directory attack paths, cloud security posture assessment, and DevSecOps.
+[SYS] running technical_brief.bat ...............[ OK ]
+[SYS] loading profile: northernreach ............[ OK ]
 
-10 years of infrastructure experience across DoD environments, enterprise telecom, and cloud-native platforms — Cisco, Juniper, Kubernetes, GCP, CI/CD pipelines. That operational background informs the approach: understanding how systems are built and run makes it easier to find where they break.
+┌─[ OVERVIEW ]─────────────────────────────────────────────────┐
+│                                                              │
+│  Offensive security and network engineering.                 │
+│                                                              │
+│  10+ years of infra/network ops ::                           │
+|   - DoD                                                      |
+│   - Enterprise Telecom                                       │
+│   - Automotive                                               │
+|                                                              |
+│  Operational context drives methodology ::                   |
+|   - building and operating systems informs how and           |
+|     where they are vulnerable.                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-## Focus Areas
+┌─[ FOCUS AREAS ]──────────────────────────────────────────────┐
+│                                                              │
+│  > network and infrastructure penetration testing            │
+│  > cloud security (GCP, AWS, Azure)                          │
+│  > saas and paas c2 techniques                               │
+|  > container escapes
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-- Network and infrastructure penetration testing
-- Active Directory enumeration and exploitation
-- Cloud security (GCP, AWS) and container escape
-- Red team tooling and automation
-- Post-exploitation and lateral movement
+┌─[ REPORTING ]────────────────────────────────────────────────┐
+│                                                              │
+│  HackTheBox ::                                               │
+│  profile.hackthebox.com/profile/                             │
+│      019d20f8-6186-7244-9499-1d9355adcd59                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-## Active Practice
+┌─[ REPOSITORIES ]─────────────────────────────────────────────┐
+│                                                              │
+│  [*] pentest-toolkit                                         │
+│      github.com/northernreach/pentest-toolkit                │
+│      Recon automation, SMB/AD enumeration, Linux and         │
+│      Windows privilege escalation checks, reverse shell      │
+│      generator, and a pentest report template.               │
+│                                                              │
+│  [*] exegol-setup                                            │
+│      github.com/northernreach/exegol-setup                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-HackTheBox: [profile.hackthebox.com/profile/019d20f8-6186-7244-9499-1d9355adcd59](https://profile.hackthebox.com/profile/019d20f8-6186-7244-9499-1d9355adcd59)
+[SYS] EOF ........................................[ OK ]
 
-## Repositories
-
-[**pentest-toolkit**](https://github.com/northernreach/pentest-toolkit) — Recon automation, SMB/AD enumeration, Linux and Windows privilege escalation checks, reverse shell generator, and a professional pentest report template.
-
-[**htb-writeups**](https://github.com/northernreach/htb-writeups) — HackTheBox machine writeups published post-retirement. Full attack narratives with methodology, tooling, and lessons learned.
+```
