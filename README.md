@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 
 [SYS] running technical_brief.bat ...............[ OK ]
-[SYS] loading profile: northernreach ............[ OK ]
+[SYS] loading profile: C0NTR0L ..................[ OK ]
 
 ┌─[ OVERVIEW ]─────────────────────────────────────────────────┐
 │                                                              │
