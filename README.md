@@ -45,9 +45,9 @@
 │                                                              │
 │  [*] pentest-toolkit                                         │
 │      github.com/northernreach/pentest-toolkit                │
-│      Recon automation, SMB/AD enumeration, Linux and         │
-│      Windows privilege escalation checks, reverse shell      │
-│      generator, and a pentest report template.               │
+│      > Recon automation, SMB/AD enumeration, Linux and       │
+│        Windows privilege escalation checks, reverse shell    │
+│        generator, and a pentest report template.             │
 │                                                              │
 │  [*] exegol-setup                                            │
 │      github.com/northernreach/exegol-setup                   │
