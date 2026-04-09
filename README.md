@@ -14,7 +14,7 @@
 │                                                              │
 │  Offensive security and network engineering.                 │
 │                                                              │
-│  10+ years of infra/network ops ::                           │
+│  10+ years of infra/network ops:                             │
 │   - DoD                                                      │
 │   - Enterprise Telecom                                       │
 │   - Automotive                                               │
@@ -23,34 +23,31 @@
 
 ┌─[ FOCUS AREAS ]──────────────────────────────────────────────┐
 │                                                              │
-│  > network and infrastructure penetration testing            │
-│  > cloud security (GCP, AWS, Azure)                          │
-│  > saas and paas c2 techniques                               │
-│  > container escapes                                         │
+│  * network and infrastructure penetration testing            │
+│  * cloud security (GCP, AWS, Azure)                          │
+│  * saas and paas c2 techniques                               │
+│  * container escapes                                         │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 
 ┌─[ ACTIVITY ]─────────────────────────────────────────────────┐
 │                                                              │
-│  Reports ::                                                  │
+│  > Reports                                                   │
 │  github.com/NorthernReach/reports                            │
 │                                                              │
-│  HTB ::                                                      │
+│  > HTB                                                       │
 │  profile.hackthebox.com/profile/                             │
 │      019d20f8-6186-7244-9499-1d9355adcd59                    │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 
-┌─[ REPOSITORIES ]─────────────────────────────────────────────┐
+┌─[ PROJECTS ]─────────────────────────────────────────────────┐
 │                                                              │
-│  [*] pentest-toolkit                                         │
-│      github.com/northernreach/pentest-toolkit                │
-│      > Recon automation, SMB/AD enumeration, Linux and       │
-│        Windows privilege escalation checks, reverse shell    │
-│        generator, and a pentest report template.             │
+│  > pentest-toolkit                                           │
+│  github.com/northernreach/pentest-toolkit                    │
 │                                                              │
-│  [*] exegol-setup                                            │
-│      github.com/northernreach/exegol-setup                   │
+│  > exegol-setup                                              │
+│  github.com/northernreach/exegol-setup                       │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 
